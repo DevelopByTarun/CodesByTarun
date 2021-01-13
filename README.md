@@ -9,7 +9,7 @@ Both Backend & Frontend Codes Is In These Apps Folder
 ````
 
 ````
-If You Want To Run These Apps, So Please Read README.md File Carefully Of Both Apps
+Read README.md File Carefully Of Both Apps Before Running These Apps
 ````
 
 #### 3. Reference Of UniqueTouchSolutions Organisation
