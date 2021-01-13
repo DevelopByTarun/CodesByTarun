@@ -8,16 +8,8 @@
 Both Backend & Frontend Codes Are There. Read README.md File Carefully Of Both Apps Before Running These Apps
 ````
 
-````
-Read README.md File Carefully Of Both Apps Before Running These Apps
-````
-
 #### 3. Reference Of UniqueTouchSolutions Organisation
 
 ````
-Name => Ekta Srivastava
-````
-
-````
-Mobile No => 7042434524
+Name => Ekta Srivastava, Mobile No => 7042434524
 ````
