@@ -5,7 +5,7 @@
 #### 2. Spring ReactJs & Redux Crud App
 
 ```` 
-Both Backend & Frontend Codes Is In These Apps Folder
+Both Backend & Frontend Codes Are There. Read README.md File Carefully Of Both Apps Before Running These Apps
 ````
 
 ````
